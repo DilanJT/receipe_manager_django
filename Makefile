@@ -92,4 +92,4 @@ lint:
 	poetry run flake8 .
 
 shell:
-	poetry run python manage.py shell
+	poetry shell
