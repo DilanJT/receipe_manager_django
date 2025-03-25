@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "recipe-management"
 version = "0.1.0"
-description = "Django REST Framework project"
-authors = ["Your Name <your.email@example.com>"]
+description = "Django REST Framework project for recipe management"
+authors = ["Dilan Jayamanne <dicmandilanl@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
